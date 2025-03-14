@@ -1,5 +1,12 @@
 # Project Name: XTON-Airport
 This is an airport management system web-based project using HTML, CSS, JavaScript, PHP, and MySQL
+This project includes-
+1.Chart.js<br>
+2.Search on table<br>
+3.Notification Alart<br>
+4.CRUD operation<br>
+5.MVC Framework<br>
+6.Multiple login form<br>
 # Demo:
 ## Home page: 
 ![1](https://github.com/Shahriar-Utchas/XTON-Airport/assets/123489314/b6f67881-ff0a-441e-859b-e9fd69c0491c)
