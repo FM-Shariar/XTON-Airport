@@ -7,6 +7,7 @@ This project includes-<br>
 4.CRUD operation<br>
 5.MVC Framework<br>
 6.Multiple login form<br>
+7.Weather API
 # Demo:
 ## Home page: 
 ![1](https://github.com/Shahriar-Utchas/XTON-Airport/assets/123489314/b6f67881-ff0a-441e-859b-e9fd69c0491c)
